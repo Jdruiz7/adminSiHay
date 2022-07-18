@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SiHay</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="btn_guarda">Crear Producto</string>
+    <string name="btn_modificar">Modificar Producto</string>
+    <string name="btn_baja">Dar de Baja Producto</string>
+    <string name="btn_entrada">Entrada Producto</string>
+    <string name="btn_crearproducto">+</string>
+    <string name="menu_nuevo">Cerrar Sesion</string>
+</resources>
